@@ -31,7 +31,7 @@ Public Class frmTextBoxSyncfusion
             .TextAlign = HorizontalAlignment.Right  '// จัดชิดขวา
             .Style = Syncfusion.Windows.Forms.Tools.TextBoxExt.theme.Office2007 '// Theme
             .PositiveColor = Color.Blue '// สีเลขบวก
-            .ZeroColor = Color.Red      '// สีเลขลบ
+            .ZeroColor = Color.Red      '// สีเลขศูนย์
         End With
     End Sub
 

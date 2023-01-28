@@ -26,7 +26,7 @@ Public Class frmTextBoxSyncfusion
             .CornerRadius = 0
             '// ใช้ DoubleTextBox เพื่อรับค่าเลขจำนวนเต็ม
             .NumberDecimalDigits = 0
-            '// ให้แสดงเครื่องหมาย - นำหน้าเลขลบ (ค่าเริ่มต้นเป็น 0 ทำให้แสดงเครื่องหมายวงเล็บ)
+            '// ให้แสดงเครื่องหมาย - นำหน้าเลขลบ (ค่าเริ่มต้นเป็น 0 จะแสดงเป็นเครื่องหมายวงเล็บ)
             .NumberNegativePattern = 1
             .TextAlign = HorizontalAlignment.Right  '// จัดชิดขวา
             .Style = Syncfusion.Windows.Forms.Tools.TextBoxExt.theme.Office2007 '// Theme
